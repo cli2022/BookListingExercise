@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookListing.Contracts\BookListing.Contracts.csproj" />
+    <ProjectReference Include="..\BookListing.Managers\BookListing.Managers.csproj" />
+    <ProjectReference Include="..\BookListing.Repositories\BookListing.Repositories.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+</Project>

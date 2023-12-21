@@ -1,0 +1,17 @@
+C:\code\BookListing\Backend\src\BookListing.Repositories\bin\Debug\net6.0\BookListing.Repositories.deps.json
+C:\code\BookListing\Backend\src\BookListing.Repositories\bin\Debug\net6.0\BookListing.Repositories.dll
+C:\code\BookListing\Backend\src\BookListing.Repositories\bin\Debug\net6.0\BookListing.Repositories.pdb
+C:\code\BookListing\Backend\src\BookListing.Repositories\bin\Debug\net6.0\BookListing.Contracts.dll
+C:\code\BookListing\Backend\src\BookListing.Repositories\bin\Debug\net6.0\BookListing.Entities.dll
+C:\code\BookListing\Backend\src\BookListing.Repositories\bin\Debug\net6.0\BookListing.Contracts.pdb
+C:\code\BookListing\Backend\src\BookListing.Repositories\bin\Debug\net6.0\BookListing.Entities.pdb
+C:\code\BookListing\Backend\src\BookListing.Repositories\obj\Debug\net6.0\BookListing.Repositories.csproj.AssemblyReference.cache
+C:\code\BookListing\Backend\src\BookListing.Repositories\obj\Debug\net6.0\BookListing.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\BookListing\Backend\src\BookListing.Repositories\obj\Debug\net6.0\BookListing.Repositories.AssemblyInfoInputs.cache
+C:\code\BookListing\Backend\src\BookListing.Repositories\obj\Debug\net6.0\BookListing.Repositories.AssemblyInfo.cs
+C:\code\BookListing\Backend\src\BookListing.Repositories\obj\Debug\net6.0\BookListing.Repositories.csproj.CoreCompileInputs.cache
+C:\code\BookListing\Backend\src\BookListing.Repositories\obj\Debug\net6.0\BookListing.Repositories.csproj.CopyComplete
+C:\code\BookListing\Backend\src\BookListing.Repositories\obj\Debug\net6.0\BookListing.Repositories.dll
+C:\code\BookListing\Backend\src\BookListing.Repositories\obj\Debug\net6.0\refint\BookListing.Repositories.dll
+C:\code\BookListing\Backend\src\BookListing.Repositories\obj\Debug\net6.0\BookListing.Repositories.pdb
+C:\code\BookListing\Backend\src\BookListing.Repositories\obj\Debug\net6.0\ref\BookListing.Repositories.dll

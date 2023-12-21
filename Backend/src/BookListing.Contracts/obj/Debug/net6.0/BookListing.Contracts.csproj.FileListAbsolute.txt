@@ -1,0 +1,15 @@
+C:\code\BookListing\Backend\src\BookListing.Contracts\bin\Debug\net6.0\BookListing.Contracts.deps.json
+C:\code\BookListing\Backend\src\BookListing.Contracts\bin\Debug\net6.0\BookListing.Contracts.dll
+C:\code\BookListing\Backend\src\BookListing.Contracts\bin\Debug\net6.0\BookListing.Contracts.pdb
+C:\code\BookListing\Backend\src\BookListing.Contracts\bin\Debug\net6.0\BookListing.Entities.dll
+C:\code\BookListing\Backend\src\BookListing.Contracts\bin\Debug\net6.0\BookListing.Entities.pdb
+C:\code\BookListing\Backend\src\BookListing.Contracts\obj\Debug\net6.0\BookListing.Contracts.csproj.AssemblyReference.cache
+C:\code\BookListing\Backend\src\BookListing.Contracts\obj\Debug\net6.0\BookListing.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\BookListing\Backend\src\BookListing.Contracts\obj\Debug\net6.0\BookListing.Contracts.AssemblyInfoInputs.cache
+C:\code\BookListing\Backend\src\BookListing.Contracts\obj\Debug\net6.0\BookListing.Contracts.AssemblyInfo.cs
+C:\code\BookListing\Backend\src\BookListing.Contracts\obj\Debug\net6.0\BookListing.Contracts.csproj.CoreCompileInputs.cache
+C:\code\BookListing\Backend\src\BookListing.Contracts\obj\Debug\net6.0\BookListing.Contracts.csproj.CopyComplete
+C:\code\BookListing\Backend\src\BookListing.Contracts\obj\Debug\net6.0\BookListing.Contracts.dll
+C:\code\BookListing\Backend\src\BookListing.Contracts\obj\Debug\net6.0\refint\BookListing.Contracts.dll
+C:\code\BookListing\Backend\src\BookListing.Contracts\obj\Debug\net6.0\BookListing.Contracts.pdb
+C:\code\BookListing\Backend\src\BookListing.Contracts\obj\Debug\net6.0\ref\BookListing.Contracts.dll

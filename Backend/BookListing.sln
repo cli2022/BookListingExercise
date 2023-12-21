@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1EFD44ED-653F-454B-9C4A-8945EE2AE9B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookListing.Entities", "src\BookListing.Entities\BookListing.Entities.csproj", "{2EBACDDC-B009-43F8-B642-24AF48EF797D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookListing.Contracts", "src\BookListing.Contracts\BookListing.Contracts.csproj", "{E725B0FF-B6E4-459D-999E-B06D4A83D64D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookListing.Managers", "src\BookListing.Managers\BookListing.Managers.csproj", "{C4230572-3DD8-48B2-94A5-90FA76859A8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookListing.Repositories", "src\BookListing.Repositories\BookListing.Repositories.csproj", "{E350CD78-DB81-4E71-8008-E4C87359CF29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookListing.Api.Host", "src\BookListing.Api.Host\BookListing.Api.Host.csproj", "{13445077-FA10-4465-875A-5DC3A5C100CB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{DBEAB7B5-C8A2-4C15-8CE6-6B334EB6B5B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookListing.Repositories.Tests", "tests\BookListing.Repositories.Tests\BookListing.Repositories.Tests.csproj", "{FFD5FD34-CFA1-4615-BBA0-8E8B9812ED39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EBACDDC-B009-43F8-B642-24AF48EF797D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBACDDC-B009-43F8-B642-24AF48EF797D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBACDDC-B009-43F8-B642-24AF48EF797D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBACDDC-B009-43F8-B642-24AF48EF797D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E725B0FF-B6E4-459D-999E-B06D4A83D64D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E725B0FF-B6E4-459D-999E-B06D4A83D64D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E725B0FF-B6E4-459D-999E-B06D4A83D64D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E725B0FF-B6E4-459D-999E-B06D4A83D64D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4230572-3DD8-48B2-94A5-90FA76859A8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4230572-3DD8-48B2-94A5-90FA76859A8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4230572-3DD8-48B2-94A5-90FA76859A8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4230572-3DD8-48B2-94A5-90FA76859A8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E350CD78-DB81-4E71-8008-E4C87359CF29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E350CD78-DB81-4E71-8008-E4C87359CF29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E350CD78-DB81-4E71-8008-E4C87359CF29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E350CD78-DB81-4E71-8008-E4C87359CF29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13445077-FA10-4465-875A-5DC3A5C100CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13445077-FA10-4465-875A-5DC3A5C100CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13445077-FA10-4465-875A-5DC3A5C100CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13445077-FA10-4465-875A-5DC3A5C100CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFD5FD34-CFA1-4615-BBA0-8E8B9812ED39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD5FD34-CFA1-4615-BBA0-8E8B9812ED39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD5FD34-CFA1-4615-BBA0-8E8B9812ED39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD5FD34-CFA1-4615-BBA0-8E8B9812ED39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2EBACDDC-B009-43F8-B642-24AF48EF797D} = {1EFD44ED-653F-454B-9C4A-8945EE2AE9B9}
+		{E725B0FF-B6E4-459D-999E-B06D4A83D64D} = {1EFD44ED-653F-454B-9C4A-8945EE2AE9B9}
+		{C4230572-3DD8-48B2-94A5-90FA76859A8D} = {1EFD44ED-653F-454B-9C4A-8945EE2AE9B9}
+		{E350CD78-DB81-4E71-8008-E4C87359CF29} = {1EFD44ED-653F-454B-9C4A-8945EE2AE9B9}
+		{13445077-FA10-4465-875A-5DC3A5C100CB} = {1EFD44ED-653F-454B-9C4A-8945EE2AE9B9}
+		{FFD5FD34-CFA1-4615-BBA0-8E8B9812ED39} = {DBEAB7B5-C8A2-4C15-8CE6-6B334EB6B5B7}
+	EndGlobalSection
+EndGlobal

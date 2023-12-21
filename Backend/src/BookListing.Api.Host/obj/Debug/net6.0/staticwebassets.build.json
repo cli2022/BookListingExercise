@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9/j3SERSXJP86VVm+IsqVjH9GckIJ/4zU5gtG6gnfNQ=",
+  "Source": "BookListing.Api.Host",
+  "BasePath": "_content/BookListing.Api.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
