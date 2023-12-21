@@ -33,7 +33,7 @@
 - Configure `API_BASE_URL` in `Frontend/src/book-listing-app/next.config.js`.
   - By default, this is set to `http://localhost:5258`, which points to `BookListing.Api.Host` hosted in dev environment.
   - The value of `API_BASE_URL` should not include `/` at the end of URL.
-- In a terminal, navigate to `Frontend/src/book-listing-app` folder, then execute `npm run dev` to run the frontend.
+- In a terminal, navigate to `Frontend/src/book-listing-app` folder, then execute `npm i`, and then execute `npm run dev` to run the frontend.
   - Note `BookListing.Api.Host` needs to be started before running the frontend.
   - This requires Node.js to host the frontend app in dev environment, by default hosted at `http://localhost:3000`.
 ## Unit Tests (with database integration) for Backend
